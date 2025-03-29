@@ -14,7 +14,7 @@ A simple Python-based text-to-speech (TTS) program using `pyttsx3`.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/paras-bista/RoboSpeaker
    ```
 2. Navigate to the project directory:
    ```sh
